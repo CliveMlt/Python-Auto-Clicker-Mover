@@ -58,8 +58,6 @@ This is a Python script for an auto clicker that simulates mouse clicks at rando
     - `[` to exit the program
 
 ## Example Output
-    ```bash
-    python .\auto_clicker_mover.py
     Paused - Sleep Time: 1.71 seconds
     Paused - Sleep Time: 2.03 seconds
     Click #1 - Delay: 1.73 seconds
@@ -68,8 +66,6 @@ This is a Python script for an auto clicker that simulates mouse clicks at rando
     Click #4 - Delay: 1.30 seconds
     Click #5 - Delay: 1.67 seconds
     Paused - Sleep Time: 1.84 seconds
-    ```
-
-
+    
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
